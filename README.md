@@ -3,7 +3,7 @@
 <summary><b>🇮🇷 فارسی (راهنما)</b></summary>
 <br>
 
-# 🚀 AioSubX3 (v3)
+# 🚀 vpncenters3x (v3)
 
 یک پنل اشتراک مدرن و بهینه‌شده برای موبایل است که تجربه‌ای شبیه به اپلیکیشن‌های بومی (Native) را برای کاربران پنل **3x-ui** فراهم می‌کند.
 
@@ -22,10 +22,10 @@
 
 ## ⚡ نصب سریع
 
-برای نصب یا آپدیت به آخرین نسخه AioSubX3، دستور زیر را در ترمینال سرور خود اجرا کنید:
+برای نصب یا آپدیت به آخرین نسخه vpncenters3x، دستور زیر را در ترمینال سرور خود اجرا کنید:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/monhacer/AioSubX3/refs/heads/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/folive27/vpncenters3x/refs/heads/main/install.sh)
 ```
 
 </details>
@@ -36,7 +36,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/monhacer/AioSubX3/refs/heads
 <summary><b>🇬🇧 English (Docs)</b></summary>
 <br>
 
-# 🚀 AioSubX3 (v3)
+# 🚀 vpncenters3x (v3)
 
 Modern, app-like, and highly responsive subscription page for **3x-ui v3.3.0+**.
 
@@ -57,10 +57,10 @@ Modern, app-like, and highly responsive subscription page for **3x-ui v3.3.0+**.
 
 ## ⚡ Quick Install
 
-To install or update to the latest version of AioSubX3, run the following command in your server's terminal:
+To install or update to the latest version of vpncenters3x, run the following command in your server's terminal:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/monhacer/AioSubX3/refs/heads/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/folive27/vpncenters3x/refs/heads/main/install.sh)
 ```
 
 </details>
@@ -71,7 +71,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/monhacer/AioSubX3/refs/heads
 <summary><b>🇷🇺 Русский (Документация)</b></summary>
 <br>
 
-# 🚀 AioSubX3 (v3)
+# 🚀 vpncenters3x (v3)
 
 Современная, адаптивная страница подписок в стиле мобильного приложения для **3x-ui v3.3.0+**.
 
@@ -92,10 +92,10 @@ bash <(curl -fsSL https://raw.githubusercontent.com/monhacer/AioSubX3/refs/heads
 
 ## ⚡ Быстрая установка
 
-Чтобы установить или обновить AioSubX3 до последней версии, выполните следующую команду в терминале вашего сервера:
+Чтобы установить или обновить vpncenters3x до последней версии, выполните следующую команду в терминале вашего сервера:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/monhacer/AioSubX3/refs/heads/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/folive27/vpncenters3x/refs/heads/main/install.sh)
 ```
 
 </details>
@@ -106,7 +106,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/monhacer/AioSubX3/refs/heads
 <summary><b>🇨🇳 中文 (文档)</b></summary>
 <br>
 
-# 🚀 AioSubX3 (v3)
+# 🚀 vpncenters3x (v3)
 
 专为 **3x-ui v3.3.0+** 打造的现代、响应式且极具 App 质感的订阅页面。
 
@@ -127,10 +127,10 @@ bash <(curl -fsSL https://raw.githubusercontent.com/monhacer/AioSubX3/refs/heads
 
 ## ⚡ 快速安装
 
-在您的服务器终端中运行以下命令，即可安装或升级至最新版 AioSubX3：
+在您的服务器终端中运行以下命令，即可安装或升级至最新版 vpncenters3x：
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/monhacer/AioSubX3/refs/heads/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/folive27/vpncenters3x/refs/heads/main/install.sh)
 ```
 
 </details>
